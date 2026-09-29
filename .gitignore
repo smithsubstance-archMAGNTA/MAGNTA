@@ -1,0 +1,13 @@
+# Temporales de Office
+~$*
+*.tmp
+*.bak
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Trabajo y respaldos locales
+work/
+99_SISTEMA/Respaldos/
